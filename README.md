@@ -1,6 +1,6 @@
-## blog_posts
+# blog_posts
 
-# currency.py output:
+## currency.py output:
 
 Dolar Alım: 17.9117,
 Dolar Satım: 17.9140,
